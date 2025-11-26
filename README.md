@@ -1,4 +1,4 @@
-# 🏛️ mp legislation file tree
+# 🏛️ Northern Mariana Islands legislation file tree
 
 Download a copy of your states legislation.
 
