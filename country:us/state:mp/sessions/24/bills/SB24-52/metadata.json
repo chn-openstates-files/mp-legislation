@@ -1,10 +1,10 @@
 {
   "legislative_session": "24",
-  "identifier": "SR 24-01",
-  "title": "Saipan Eagle Club",
+  "identifier": "SB 24-52",
+  "title": "CEDA preferred dividend funds",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
-    "resolution"
+    "bill"
   ],
   "subject": [],
   "abstracts": [],
@@ -12,11 +12,11 @@
   "other_identifiers": [],
   "actions": [
     {
-      "description": "Senate Final Reading",
-      "date": "2025-04-25",
+      "description": "Date Introduced",
+      "date": "2025-11-19",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "reading-2"
+        "introduction"
       ],
       "related_entities": [],
       "_processing": {
@@ -26,21 +26,21 @@
   ],
   "sponsorships": [
     {
-      "name": "Babauta",
+      "name": "Castro",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Babauta\"}",
+      "person_id": "~{\"name\": \"Castro\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "SR 24-01",
+      "note": "SB 24-52",
       "links": [
         {
-          "url": "https://cnmileg.net/documents/senate/sen_comres/24/24-01.pdf",
+          "url": "https://cnmileg.net/documents/senate/sen_bills/24/24-52.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -52,7 +52,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://cnmileg.net/leg_sts.asp?legID=19896&secID=2",
+      "url": "https://cnmileg.net/leg_sts.asp?legID=20017&secID=2",
       "note": ""
     }
   ],
