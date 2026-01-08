@@ -12,6 +12,30 @@
   "other_identifiers": [],
   "actions": [
     {
+      "description": "Date Introduced",
+      "date": "2025-12-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:23:30Z"
+      }
+    },
+    {
+      "description": "House First Reading",
+      "date": "2025-12-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:23:30Z"
+      }
+    },
+    {
       "description": "House Final Reading",
       "date": "2025-12-22",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -33,6 +57,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-05T12:23:05Z"
+      }
+    },
+    {
+      "description": "Duly Adopted",
+      "date": "2025-12-22",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:23:30Z"
+      }
+    },
+    {
+      "description": "Sent to Governor",
+      "date": "2025-12-23",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:23:30Z"
       }
     }
   ],
@@ -76,6 +124,6 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-05T12:23:05Z"
+    "logs_latest_update": "2026-01-08T12:23:30Z"
   }
 }

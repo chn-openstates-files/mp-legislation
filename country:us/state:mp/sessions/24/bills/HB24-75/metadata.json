@@ -24,6 +24,18 @@
       }
     },
     {
+      "description": "House First Reading",
+      "date": "2025-12-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:23:30Z"
+      }
+    },
+    {
       "description": "House Final Reading",
       "date": "2025-12-05",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -33,6 +45,42 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-16T08:21:57Z"
+      }
+    },
+    {
+      "description": "Senate Final Reading",
+      "date": "2025-12-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:23:30Z"
+      }
+    },
+    {
+      "description": "Sent to Governor",
+      "date": "2025-12-23",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:23:30Z"
+      }
+    },
+    {
+      "description": "P.L. 24-19",
+      "date": "2025-12-23",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:23:30Z"
       }
     }
   ],
@@ -58,10 +106,30 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "P.L. 24-19",
+      "links": [
+        {
+          "url": "https://cnmileg.net/documents/files/24TH%20UPDATE/PL%2024-19%20(HB%2024-75%20GHLI%20Retiree%20%26%20PSS%20Allocation%20(3.747M)).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "MP Public Laws",
+      "citation": "P.L. 24-19",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
   "sources": [
     {
       "url": "https://cnmileg.net/leg_sts.asp?legID=20024&secID=1",
@@ -76,6 +144,6 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-16T08:21:57Z"
+    "logs_latest_update": "2026-01-08T12:23:30Z"
   }
 }

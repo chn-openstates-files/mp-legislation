@@ -46,6 +46,42 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:29:43Z"
       }
+    },
+    {
+      "description": "Senate Final Reading",
+      "date": "2025-11-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:23:30Z"
+      }
+    },
+    {
+      "description": "Sent to Governor",
+      "date": "2025-11-17",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:23:30Z"
+      }
+    },
+    {
+      "description": "P.L. 24-18",
+      "date": "2025-11-26",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-08T12:23:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -70,10 +106,30 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "P.L. 24-18",
+      "links": [
+        {
+          "url": "https://cnmileg.net/documents/files/24TH%20UPDATE/PL%2024-18%20(HB%2024-54%20Military%20and%20Emergency%20Service%20Leave).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "MP Public Laws",
+      "citation": "P.L. 24-18",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
   "sources": [
     {
       "url": "https://cnmileg.net/leg_sts.asp?legID=19954&secID=1",
@@ -88,6 +144,6 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:29:43Z"
+    "logs_latest_update": "2026-01-08T12:23:30Z"
   }
 }
