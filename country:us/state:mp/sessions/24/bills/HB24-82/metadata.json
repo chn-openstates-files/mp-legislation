@@ -24,6 +24,30 @@
       }
     },
     {
+      "description": "House Final Reading",
+      "date": "2025-12-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-14T12:23:03Z"
+      }
+    },
+    {
+      "description": "Senate Final Reading",
+      "date": "2025-12-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-14T12:23:03Z"
+      }
+    },
+    {
       "description": "Sent to Governor",
       "date": "2025-12-31",
       "organization_id": "~{\"classification\": \"executive\"}",
@@ -108,6 +132,6 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-08T12:23:30Z"
+    "logs_latest_update": "2026-01-14T12:23:03Z"
   }
 }
